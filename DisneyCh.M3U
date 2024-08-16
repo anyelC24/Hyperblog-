@@ -1,0 +1,29 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gkmlFc6kE2djINsy2RWGVHlex73.jpg"group-title="Disney channel", pecezuelos
+https://raw.githubusercontent.com/HECTHINHOXD/Series-bflix/main/Pecezuelos
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AMPHIBIA.jpg" group-title="Disney channel",AMPHIBIA 
+https://archive.org/download/ns_20210520/Amphibia.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/p0r74d45_202012/1.jpg" group-title="Disney channel",Dave El Barbaro
+http://archive.org/download/p0r74d45_202012/d4v33lb4rb4r14n.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARGOLAS.jpg" group-title="Disney channel",GARGOLAS
+https://archive.org/download/ns_20210520/GARGOLAS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GRAVITY FALLS.jpg" group-title="Disney channel",GRAVITY FALLS
+http://archive.org/download/listasaqui_ymail4_Alf/Gravity%20Falls.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/losmejoreexitos/h0u53ofm0u53.jpg" group-title="Disney channel",house of mouse
+http://archive.org/download/housemous/HYHTEMPOS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/KICK BUTTOWSKI (MEDIO DOBLE DE RIESGO).jpg" group-title="Disney channel",KICK BUTTOWSKI (MEDIO DOBLE DE RIESGO)
+https://archive.org/download/ns_20210520/KICK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LADY BUG.jpg" group-title="Disney channel",LADY BUG
+https://archive.org/download/ns_20210520/LADYBUG.m3u
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Las_Nuevas_Aventuras_de_Winnie_the_Pooh_Serie_de_TV-718842113-large.jpg" group-title="Disney channel",WINNIE THE POOH
+http://archive.org/download/kkkkk_202101/W1NN13P0H.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI4OWE5MDgtMGNlYi00N2MwLWJlZmQtNGJlMjU4OGVkZjFmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney channel",MONSTRUOS A LA OBRA
+https://archive.org/download/elch4v0/m0ns.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/PHINEAS Y FERB.jpg" group-title="Disney channel",PHINEAS Y FERB
+http://archive.org/download/PHIFER/PHIFER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/Star vs Las Fuerzas Del Mal.jpg" group-title="Disney channel",Star vs Las Fuerzas Del Mal
+http://archive.org/download/star_20201130/Star.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/d-01-d-5/D01D5.jpg" group-title="Disney channel",Star wars: Droides
+http://archive.org/download/d-01-d-5/DR01D5.m3u

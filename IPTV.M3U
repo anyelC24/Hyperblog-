@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",DEPORTE
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL
+
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
+https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cYZkcyJ/360-F-58743874-4-FYn-XPIQRc-Fo8i-GTfq-Ja8o-Nm-Gqoa9-QE4.jpg"group-title="",listas IptV
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Listas
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="pruebas",SR.REGIO
+http://pl.pro/lista.m3u
+
+#EXTINF:-1 tvg-logo=""group-title="pruebas",serve1
+ https://archive.org/download/1punmanloi/One%20Punch%20Man%20-%2001%20%5B720p%5D%20%5BMulti%20Audio%5D.mp4
+
+#EXTINF:-1 tvg-logo=""group-title="pruebas",prueb2
+https://archive.org/download/cuentos-de-la-cripta-s-01-e-01-el-hombre-que-era-la-muerte-audio-latino/Cuentos%20de%20la%20cripta%20%23%20S01E01%20%23%20El%20hombre%20que%20era%20la%20muerte%20%28AUDIO%20LATINO%29.mp4
+
+
+
+
+--------------
+
+#EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
+https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c
+https://ssmalxtwk.sw-cdnstreamwish.com/hls2/01/04176/2fa1dzq1m2u5_n/master.m3u8?t=RPmItaNJxE1NBxN5sHP37b-i-LmCbWyRYuf1bWT6P-A&s=1719148146&e=129600&f=20882136&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=271991
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c1
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c2
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Djjdk
+#EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
+https://raw.githubusercontent.com/Zickari0619/DEPORTES/main/DEPORTESCHILE.m3u
+#EXTINF:-1 tvg-logo=""group-title="Vip", Canales 24/7
+https://raw.githubusercontent.com/Zickari0619/24-7/main/247.m3u
+
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/11/libertadores-generico_1-1024x751.jpg"group-title="Deportes", Libertadores 
+http://ultrapremium.cloud:8080/get.php?username=96109895&password=2473ph&type=m3u_plus
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="",PLUTO TV
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
+
+
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", TELECLUB
+http://tv.teleclub.xyz/lista/canales.m3u
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", ADULT
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204
+
+#EXTINF:-1 tvg-logo="https://pelotalibre.org/wp-content/uploads/2022/12/DirecTV_Sports.png" group-title="",BOCA JUNIORS 
+https://raw.githubusercontent.com/Imag7/Imagt/main/movies.txt
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sex-education.jpg" group-title="Netflix",Sex education
+https://github.com/BrianRVP/lista.m3u/releases/download/PrubeaREMAKEEEEEEEEEEEEEEEEEEEEE/S4E13X.E1AD1UCA1RTI1ON.1.mp4
