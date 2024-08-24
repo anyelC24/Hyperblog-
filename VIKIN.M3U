@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",01 VIKINGOS T1  CAPITULO 1
+#EXTINF:-1,tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",01 VIKINGOS T1  CAPITULO 1
 http://archive.org/download/flor_20210110/1.mp4
-#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 2
+#EXTINF:-1,tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 2
 http://archive.org/download/flor_20210110/2.mp4
-#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 3
+#EXTINF:-1,tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 3
 http://archive.org/download/flor_20210110/3.mp4
-#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 4
+#EXTINF:-1,tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 4
 http://archive.org/download/flor_20210110/4.mp4
-#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 5
+#EXTINF:-1,tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 5
 http://archive.org/download/flor_20210110/5.mp4
 #EXTINF:-1,VIKINGOS T1  CAPITULO 6
 http://archive.org/download/flor_20210110/6.mp4
@@ -19,7 +19,7 @@ http://archive.org/download/flor_20210110/8.mp4
 http://archive.org/download/flor_20210110/9.mp4
 
 #EXTINF:-1,TEMPORADA 2
-#EXTINF:-1,VIKINGOS T2  CAPITULO 1
+#EXTINF:-1,tvg-logo="https://i.ytimg.com/vi/xmjxVA1v1dc/maxresdefault.jpg"VIKINGOS T2  CAPITULO 1
 http://archive.org/download/flor_20210110/10.mp4
 #EXTINF:-1,VIKINGOS T2  CAPITULO 2
 http://archive.org/download/flor_20210110/11.mp4
@@ -40,7 +40,7 @@ http://archive.org/download/flor_20210110/18.mp4
 #EXTINF:-1,VIKINGOS T2  CAPITULO 10
 http://archive.org/download/flor_20210110/19.mp4
 
-#EXTINF:-1,TEMPORADA 2
+#EXTINF:-1,tvg-logo="https://i.ytimg.com/vi/xmjxVA1v1dc/maxresdefault.jpg"TEMPORADA 3
 http://archive.org/download/ANIME_20190528/Mi%20video2.mp4
 #EXTINF:-1,VIKINGOS T3  CAPITULO 1
 http://archive.org/download/flor_20210110/20.mp4
@@ -63,7 +63,7 @@ http://archive.org/download/flor_20210110/28.mp4
 #EXTINF:-1,VIKINGOS T3  CAPITULO 10
 http://archive.org/download/flor_20210110/29.mp4
 
-#EXTINF:-1,TEMPORADA 4
+#EXTINF:-1,tvg-logo="https://tse1.mm.bing.net/th?id=OIP.WAZn_EUOAjECJlqyInwXGAHaFj&pid=Api&P=0&h=220"TEMPORADA 4
 http://archive.org/download/ANIME_20190528/Mi%20video2.mp4
 #EXTINF:-1,VIKINGOS T4  CAPITULO 1
 http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/1.mp4
@@ -106,7 +106,7 @@ http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-
 #EXTINF:-1,VIKINGOS T4  CAPITULO 20
 http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/20.mp4
 
-#EXTINF:-1,TEMPORADA 5
+#EXTINF:-1,tvg-logo="https://img11.tokyvideo.com/videos/192/192934/previews/previews_0012_custom_1671088370.2173.jpg"TEMPORADA 5
 http://archive.org/download/ANIME_20190528/Mi%20video2.mp4
 #EXTINF:-1,VIKINGOS T5  CAPITULO 1
 http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/21.mp4
@@ -149,7 +149,7 @@ http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-
 #EXTINF:-1,VIKINGOS T5  CAPITULO 20
 http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/40.mp4
 
-#EXTINF:-1,TEMPORADA 6
+#EXTINF:-1,tvg-logo="https://i.blogs.es/a2534a/vikingos-valhalla-poster-temporada-2/450_1000.jpeg"TEMPORADA 6
 http://archive.org/download/ANIME_20190528/Mi%20video2.mp4
 #EXTINF:-1,VIKINGOS T6  CAPITULO 1
 http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/41.mp4
