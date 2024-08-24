@@ -1,14 +1,13 @@
 #EXTM3U
-#EXTINF:-1,TEMPORADA 1
-#EXTINF:-1,VIKINGOS T1  CAPITULO 1
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",01 VIKINGOS T1  CAPITULO 1
 http://archive.org/download/flor_20210110/1.mp4
-#EXTINF:-1,VIKINGOS T1  CAPITULO 2
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 2
 http://archive.org/download/flor_20210110/2.mp4
-#EXTINF:-1,VIKINGOS T1  CAPITULO 3
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 3
 http://archive.org/download/flor_20210110/3.mp4
-#EXTINF:-1,VIKINGOS T1  CAPITULO 4
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 4
 http://archive.org/download/flor_20210110/4.mp4
-#EXTINF:-1,VIKINGOS T1  CAPITULO 5
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BF88UyhJz3xmBdO2StBhTwHaEG&pid=Api&P=0&h=220",VIKINGOS T1  CAPITULO 5
 http://archive.org/download/flor_20210110/5.mp4
 #EXTINF:-1,VIKINGOS T1  CAPITULO 6
 http://archive.org/download/flor_20210110/6.mp4
